@@ -1,9 +1,9 @@
 ---
 title: "Chapter 2: The Wrong Man"
-coverImage: "/assets/chapters/01.png"
-date: "2025-02-03"
+coverImage: "/assets/chapters/02.png"
+date: "2025-02-03-20-28"
 ogImage:
-  url: "/assets/chapters/01.png"
+  url: "/assets/chapters/02.png"
 ---
 
 Jack's breath hitched, his gaze darting frantically between the approaching FBI agents and the shadowy figure in the van. Heart racing, instinct took over—he lunged forward and jumped inside. The van door slammed shut, plunging the interior into darkness.
