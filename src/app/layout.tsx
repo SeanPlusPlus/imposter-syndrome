@@ -6,8 +6,8 @@ import { getAllPosts } from "@/lib/api";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: `Trajectory`,
-  description: `A collabortive science fiction story between Sean and ChatGPT`,
+  title: `Imposter Syndrome`,
+  description: `A collabortive action adventure story between Sean and ChatGPT`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },

@@ -4,7 +4,7 @@ import { usePathname } from "next/navigation";
 import Container from "@/app/_components/container";
 import EmojiFooter from "./EmojiFooter";
 
-const COMPLETE = true 
+const COMPLETE = false 
 
 export function Footer(posts: any) {
   const pathname = usePathname(); // Get the current URL path
