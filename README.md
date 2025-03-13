@@ -1,3 +1,3 @@
-# Trajectory Sci-fi
+# Imposter Syndrome
 
-A collabortive science fiction story between Sean and ChatGPT
+A action adventure story between Sean and ChatGPT
